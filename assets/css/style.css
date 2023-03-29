@@ -28,11 +28,15 @@ ul li {
     list-style: none;
     text-transform: uppercase;
     font-size: 15px;
+    font-weight: 900;
 }
 legend {
     font-size: 20px;
     font-weight: 900;
     color: red;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
 }
 label {
     font-style: italic;
